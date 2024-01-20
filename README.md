@@ -7,7 +7,6 @@ Woof Woof is a web-based application designed to manage a pet store, implementin
 - [Overview](#overview)
 - [Features](#features)
 - [Tech Stack](#tech-stack)
-- [Installation](#installation)
 - [Images](#images)
 
 ## Overview
@@ -34,13 +33,6 @@ The Woof Woof Pet Store Management System is a comprehensive solution for effici
 - **MySQL**
 - **Thymeleaf**
 - **JPA**
-
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/woof-woof.git
-   ```
 
 ## Images
 
